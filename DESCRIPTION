@@ -11,15 +11,15 @@ LazyData: true
 RoxygenNote: 7.1.1
 Imports:
     ggplot2,
-  grid,
-  scales,
-  dplyr,
-  tidyr,
-  readr,
-  magrittr,
-  stringr,
-  leaflet,
-  lubridate,
-  knitr,
-  rmarkdown,
-  testthat
+    grid,
+    scales,
+    dplyr,
+    tidyr,
+    readr,
+    magrittr,
+    stringr,
+    leaflet,
+    lubridate,
+    knitr,
+    rmarkdown,
+    testthat
