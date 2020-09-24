@@ -1,3 +1,4 @@
+library(noarr)
 library(testthat)
 
 test_that("Data can be pulled in raw form and loaded into memory", {

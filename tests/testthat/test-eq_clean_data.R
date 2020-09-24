@@ -1,4 +1,5 @@
-library(rcap)
+library(noarr)
+library(testthat)
 context("Test clean_data function")
 
 test_that("Data is cleaned properly", {

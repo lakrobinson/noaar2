@@ -1,3 +1,4 @@
+library(noarr)
 library(testthat)
 
 test_that("Location is cleaned properly", {

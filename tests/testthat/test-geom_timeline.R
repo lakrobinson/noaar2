@@ -1,3 +1,4 @@
+library(noarr)
 library(testthat)
 
 test_that("geom_timeline runs correctly", {

@@ -1,3 +1,4 @@
+library(noarr)
 library(testthat)
 
 test_that("The date column is generated properly", {

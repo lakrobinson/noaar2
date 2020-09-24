@@ -1,3 +1,4 @@
+library(noarr)
 library(testthat)
 
 test_that("eq_create_label runs without error", {
