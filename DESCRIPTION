@@ -3,7 +3,7 @@ Type: Package
 Title: Reads, Cleans and Plots NOAA Earthquake Data
 Version: 0.1.0
 Author: Lakin Robinson
-Maintainer: Lakin Robinson
+Maintainer: Lakin Robinson <lakinbrobinson@gmail.com>
 Description: Project for Capstone Course in Coursera's Mastering Software Development in R Specialization
 License: GPL-3
 Encoding: UTF-8
