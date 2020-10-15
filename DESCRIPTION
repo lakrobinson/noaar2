@@ -8,18 +8,3 @@ Description: Coursera capstone project
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 7.1.1
-Import:
-    ggplot2,
-    grid,
-    scales,
-    dplyr,
-    tidyr,
-    readr,
-    magrittr,
-    stringr,
-    leaflet,
-    lubridate,
-    knitr,
-    rmarkdown,
-    testthat
