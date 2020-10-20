@@ -2,6 +2,5 @@
 
 language: r
 
-dist: trusty
 sudo: true
 cache: packages
