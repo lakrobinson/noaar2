@@ -2,5 +2,6 @@
 
 language: r
 
-sudo: false
+dist: trusty
+sudo: true
 cache: packages
