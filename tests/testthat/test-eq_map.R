@@ -1,4 +1,4 @@
-library(noarr)
+#library(noarr) trying this
 library(testthat)
 
 test_that("eq_map runs without error", {
