@@ -10,4 +10,15 @@ Encoding: UTF-8
 LazyData: true
 Imports:
     ggplot2,
-    readr
+    grid,
+    scales,
+    dplyr,
+    tidyr,
+    readr,
+    magrittr,
+    stringr,
+    leaflet,
+    lubridate,
+    knitr,
+    rmarkdown,
+    testthat
