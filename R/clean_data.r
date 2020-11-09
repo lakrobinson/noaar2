@@ -112,7 +112,7 @@ eq_location_clean <- function(df){
 #'   print(class(df))
 #'   head(df)
 #' }
-#'
+
 eq_clean_data <- function(df_raw){
   df <- df_raw
   df <- df %>% dplyr::filter(YEAR >= 0) %>%
