@@ -1,4 +1,4 @@
-library(noarr)
+library(noaar)
 library(testthat)
 
 test_that("geom_timeline_label runs correctly", {
