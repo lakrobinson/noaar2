@@ -1,4 +1,4 @@
-#library(noarr) trying this
+library(noaar)
 library(testthat)
 context("Test clean_data function")
 
