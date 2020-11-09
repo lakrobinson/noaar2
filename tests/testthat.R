@@ -2,6 +2,6 @@
 
 Sys.setenv("R_TESTS" = "")
 library(testthat)
-#library(noarr) trying this
+library(noaar)
 
-test_check("noarr")
+test_check("noaar")
