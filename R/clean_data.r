@@ -17,7 +17,7 @@
 #'   head(df)
 #' }
 #'
-load_data <- function(path=file.path("data", "signif.txt.tsv")){
+load_data <- function(path=file.path("data/inst/extdata", "signif.txt.tsv")){
   df <- readr::read_delim(path, delim="\t")
 }
 
