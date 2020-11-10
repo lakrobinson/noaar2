@@ -4,10 +4,10 @@
 \alias{load_data}
 \title{Load raw data}
 \usage{
-load_data(path = file.path("data/inst/extdata", "signif.txt.tsv"))
+load_data(path = file.path("inst/extdata", "signif.txt.tsv"))
 }
 \arguments{
-\item{path}{file path to data source (default == "data/signif.txt.tsv")}
+\item{path}{file path to data source (default == "inst/extdata/signif.txt.tsv")}
 }
 \value{
 Returns a dataframe
