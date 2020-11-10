@@ -4,7 +4,7 @@ Title: Coursera Capstone Project
 Version: 0.1.0
 Author: Lakin Robinson
 Maintainer: Lakin Robinson <lakinbrobinson@gmail.com>
-Description: Coursera capstone project
+Description: This package can be used to clean and visualize NOAA data. It was created for the Mastering Software Development in R capstone course.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
